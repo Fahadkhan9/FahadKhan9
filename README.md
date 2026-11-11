@@ -1,35 +1,212 @@
-<h1 align="center">Hi 👋, I'm Fahad Khan</h1>
-<h3 align="center">A passionate Applied Ai-Engineer and a Full stack developer from India</h3>
+ 
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadkhan9&label=Profile%20views&color=0e75b6&style=flat" alt="fahadkhan9" /> </p>
+# 👋 Hey, I'm Fahad Khan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahadkhan9" alt="fahadkhan9" /></a> </p>
+### Applied AI Engineer | Full-Stack Developer | Software Engineer
 
-- 🔭 I’m currently working on [Support Ops](https://github.com/Fahadkhan9/Support-ops)
+Building intelligent applications, scalable backend systems, and AI-powered products.
 
-- 🌱 I’m currently learning **Numpy, pandas, supervised and unsupervised ml**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+Applied+AI+%26+Machine+Learning;Backend+Engineering+%7C+System+Design;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 
-- 👯 I’m looking to collaborate on [Support Ops](https://github.com/Fahadkhan9/Support-ops)
+[![GitHub](https://img.shields.io/badge/GitHub-Fahadkhan9-181717?style=for-the-badge&logo=github)](https://github.com/Fahadkhan9)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahad96133@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fkhan96133)
 
-- 🤝 I’m looking for help with [Support Ops](https://github.com/Fahadkhan9/Support-ops)
+![Profile Views](https://komarev.com/ghpvc/?username=Fahadkhan9&label=PROFILE+VIEWS&color=0e75b6&style=flat-square)
 
-- 💬 Ask me about **Full stack web development**
+</div>
 
-- 📫 How to reach me **fahad96133@gmail.com**
+---
 
-- ⚡ Fun fact **I also have experience in training AI models and a strong understanding of rubric development and evaluation.**
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm a Software Engineer passionate about building practical software solutions and exploring the possibilities of Artificial Intelligence.
+
+- 🤖 Focused on **Applied AI, AI integration, and intelligent applications**.
+- 💻 Experienced in **Full-Stack Development and Backend Engineering**.
+- 🧠 Interested in **RAG systems, LLM applications, and AI model evaluation**.
+- 📊 Experienced in AI model training, rubric development, and evaluation.
+- ⚙️ Love working with APIs, databases, system design, and scalable architectures.
+- 🌱 Currently exploring **Python, NumPy, Pandas, and Machine Learning**.
+- 🤝 Always open to interesting projects, collaborations, and open-source contributions.
+
+**My goal:** Build technology that solves real-world problems.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
 <p align="left">
-<a href="https://linkedin.com/in/fahad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahad khan" height="30" width="40" /></a>
-<a href="https://instagram.com/fkhan96133" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fkhan96133" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,java,cpp" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,django,flask" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadkhan9&show_icons=true&locale=en&layout=compact" alt="fahadkhan9" /></p>
+### Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind,redux" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadkhan9&show_icons=true&locale=en" alt="fahadkhan9" /></p>
+### Databases & Caching
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadkhan9&" alt="fahadkhan9" /></p>
+### AI / Machine Learning & Data
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+</p>
+
+`NumPy` · `Pandas` · `LLMs` · `RAG` · `AI Model Evaluation` · `Prompt Engineering`
+
+### Tools & Infrastructure
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,figma,kafka" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### GitHub Overview
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fahadkhan9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+### Most Used Languages
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Fahadkhan9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+### Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fahadkhan9&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+### Contribution Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fahadkhan9&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Fahadkhan9)
+
+### Contribution Calendar
+
+![Contribution Calendar](https://ghchart.rshah.org/409ba5/Fahadkhan9)
+
+### Public Repository Count
+
+![Public Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FFahadkhan9&query=%24.public_repos&label=Public%20Repositories&logo=github&color=blue)
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🚀 Projects I'm Proud Of
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Console.Hired](https://github.com/FahadKhan9/Console.Hired)
+
+**AI Resume Analyzer & Mock Interview Platform**
+
+An AI-powered career coach that analyzes resumes against job descriptions, identifies skill gaps, and conducts personalized mock interviews with structured feedback.
+
+**Key Features**
+- AI-powered resume analysis and ATS scoring.
+- Job description matching and skill-gap detection.
+- Personalized AI mock interviews.
+- Rubric-based answer evaluation and feedback.
+
+**Tech Stack:** `Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `LLMs` `RAG`
+
+[**View Repository →**](https://github.com/FahadKhan9/Console.Hired)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ [Support Ops](https://github.com/FahadKhan9/Support-ops)
+
+**AI-Powered Support Operations**
+
+An intelligent support operations platform focused on streamlining support workflows and helping teams manage operational tasks more efficiently.
+
+**Key Focus**
+- Support workflow automation.
+- AI-assisted operational processes.
+- Backend-driven application architecture.
+- Scalable support management.
+
+**Tech Stack:** See repository README for the complete stack.
+
+[**View Repository →**](https://github.com/FahadKhan9/Support-ops)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏗️ [Nirmaan Sahayak AI](https://github.com/FahadKhan9/Nirmaan-Sahayak-AI)
+
+**AI-Powered Building Plan Compliance Assistant**
+
+An AI assistant that helps interpret building-plan requirements in Hindi and English and validates them against Madhya Pradesh Bhumi Vikas Rules.
+
+**Key Features**
+- Natural-language building-plan queries.
+- Hindi and English interaction.
+- Deterministic TypeScript rules engine.
+- Rule-based compliance validation.
+- Supporting rule citations for verification.
+- Automated testing and evaluation.
+
+**Tech Stack:** `TypeScript` `Claude AI` `LLMs` `Rule Engine`
+
+[**View Repository →**](https://github.com/FahadKhan9/Nirmaan-Sahayak-AI)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**More projects coming soon!**
+
+[![Explore All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/FahadKhan9?tab=repositories)
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Fahadkhan9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, and people building interesting products.
+
+- 📧 Email: **fahad96133@gmail.com**
+- 💼 GitHub: [@Fahadkhan9](https://github.com/Fahadkhan9)
+- 📸 Instagram: [@fkhan96133](https://instagram.com/fkhan96133)
+
+<div align="center">
+
+### 💡 "Building today what tomorrow will depend on."
+
+⭐ If you find something interesting in my repositories, consider giving it a star!
+
+</div>
