@@ -77,7 +77,7 @@ I'm a Software Engineer passionate about building practical software solutions a
 
 ### GitHub Overview
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fahadkhan9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fahadkhan9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars)
 
 ### Most Used Languages
 
