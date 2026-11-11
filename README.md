@@ -77,7 +77,7 @@ I'm a Software Engineer passionate about building practical software solutions a
 
 ### GitHub Overview
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Fahadkhan9&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+![GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=FahadKhan9&show_icons=true&theme=tokyonight&hide=stars" />)
 
 ### Most Used Languages
 
@@ -185,15 +185,6 @@ An AI assistant that helps interpret building-plan requirements in Hindi and Eng
 
 </div>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Fahadkhan9&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
